@@ -1,0 +1,100 @@
+{
+    "sources": [
+      {
+        "url": "https://krebsonsecurity.com/",
+        "headline_tag": "h2",
+        "headline_class": "entry-title"
+      },
+      {
+        "url": "https://thehackernews.com/",
+        "headline_tag": "h2",
+        "headline_class": "home-title"
+      },
+      {
+        "url": "https://www.darkreading.com/",
+        "headline_tag": "h3",
+        "headline_class": "article-title"
+      },
+      {
+        "url": "https://www.bleepingcomputer.com/",
+        "headline_tag": "h2",
+        "headline_class": "entry-title"
+      },
+      {
+        "url": "https://www.cyberscoop.com/",
+        "headline_tag": "h2",
+        "headline_class": "post-title"
+      },
+      {
+        "url": "https://www.securityweek.com/",
+        "headline_tag": "h2",
+        "headline_class": "title"
+      },
+      {
+        "url": "https://www.scmagazine.com/",
+        "headline_tag": "h2",
+        "headline_class": "article-title"
+      },
+      {
+        "url": "https://threatpost.com/",
+        "headline_tag": "h2",
+        "headline_class": "post-title"
+      },
+      {
+        "url": "https://www.wired.com/category/security/",
+        "headline_tag": "h2",
+        "headline_class": "card-component__description"
+      },
+      {
+        "url": "https://www.zdnet.com/topic/security/",
+        "headline_tag": "h3",
+        "headline_class": "title"
+      },
+      {
+        "url": "https://securityboulevard.com/",
+        "headline_tag": "h3",
+        "headline_class": "post-title"
+      },
+      {
+        "url": "https://arstechnica.com/security/",
+        "headline_tag": "h2",
+        "headline_class": "heading"
+      },
+      {
+        "url": "https://www.infosecurity-magazine.com/",
+        "headline_tag": "h2",
+        "headline_class": "title"
+      },
+      {
+        "url": "https://www.reddit.com/r/cybersecurity/",
+        "headline_tag": "h3",
+        "headline_class": "_eYtD2XCVieq6emjKBH3m"
+      },
+      {
+        "url": "https://isc.sans.edu/",
+        "headline_tag": "h2",
+        "headline_class": "entry-title"
+      },
+      {
+        "url": "https://nakedsecurity.sophos.com/",
+        "headline_tag": "h2",
+        "headline_class": "post-title"
+      },
+      {
+        "url": "https://portswigger.net/daily-swig",
+        "headline_tag": "h2",
+        "headline_class": "article-title"
+      },
+      {
+        "url": "https://www.welivesecurity.com/",
+        "headline_tag": "h2",
+        "headline_class": "entry-title"
+      },
+      {
+        "url": "https://blog.malwarebytes.com/",
+        "headline_tag": "h2",
+        "headline_class": "entry-title"
+      }
+    ]
+  }
+  
