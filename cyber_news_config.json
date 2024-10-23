@@ -1,100 +1,118 @@
 {
-    "sources": [
-      {
-        "url": "https://krebsonsecurity.com/",
-        "headline_tag": "h2",
-        "headline_class": "entry-title"
-      },
-      {
-        "url": "https://thehackernews.com/",
-        "headline_tag": "h2",
-        "headline_class": "home-title"
-      },
-      {
-        "url": "https://www.darkreading.com/",
-        "headline_tag": "h3",
-        "headline_class": "article-title"
-      },
-      {
-        "url": "https://www.bleepingcomputer.com/",
-        "headline_tag": "h2",
-        "headline_class": "entry-title"
-      },
-      {
-        "url": "https://www.cyberscoop.com/",
-        "headline_tag": "h2",
-        "headline_class": "post-title"
-      },
-      {
-        "url": "https://www.securityweek.com/",
-        "headline_tag": "h2",
-        "headline_class": "title"
-      },
-      {
-        "url": "https://www.scmagazine.com/",
-        "headline_tag": "h2",
-        "headline_class": "article-title"
-      },
-      {
-        "url": "https://threatpost.com/",
-        "headline_tag": "h2",
-        "headline_class": "post-title"
-      },
-      {
-        "url": "https://www.wired.com/category/security/",
-        "headline_tag": "h2",
-        "headline_class": "card-component__description"
-      },
-      {
-        "url": "https://www.zdnet.com/topic/security/",
-        "headline_tag": "h3",
-        "headline_class": "title"
-      },
-      {
-        "url": "https://securityboulevard.com/",
-        "headline_tag": "h3",
-        "headline_class": "post-title"
-      },
-      {
-        "url": "https://arstechnica.com/security/",
-        "headline_tag": "h2",
-        "headline_class": "heading"
-      },
-      {
-        "url": "https://www.infosecurity-magazine.com/",
-        "headline_tag": "h2",
-        "headline_class": "title"
-      },
-      {
-        "url": "https://www.reddit.com/r/cybersecurity/",
-        "headline_tag": "h3",
-        "headline_class": "_eYtD2XCVieq6emjKBH3m"
-      },
-      {
-        "url": "https://isc.sans.edu/",
-        "headline_tag": "h2",
-        "headline_class": "entry-title"
-      },
-      {
-        "url": "https://nakedsecurity.sophos.com/",
-        "headline_tag": "h2",
-        "headline_class": "post-title"
-      },
-      {
-        "url": "https://portswigger.net/daily-swig",
-        "headline_tag": "h2",
-        "headline_class": "article-title"
-      },
-      {
-        "url": "https://www.welivesecurity.com/",
-        "headline_tag": "h2",
-        "headline_class": "entry-title"
-      },
-      {
-        "url": "https://blog.malwarebytes.com/",
-        "headline_tag": "h2",
-        "headline_class": "entry-title"
-      }
-    ]
-  }
-  
+    "sources": {
+        "https://krebsonsecurity.com/": {
+            "article_tag": "h2",
+            "article_class": "entry-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://thehackernews.com/": {
+            "article_tag": "h2",
+            "article_class": "home-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.darkreading.com/": {
+            "article_tag": "h3",
+            "article_class": "article-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.bleepingcomputer.com/": {
+            "article_tag": "h2",
+            "article_class": "entry-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.cyberscoop.com/": {
+            "article_tag": "h3",
+            "article_class": "post-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.securityweek.com/": {
+            "article_tag": "h2",
+            "article_class": "headline",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.scmagazine.com/": {
+            "article_tag": "h3",
+            "article_class": "news-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://threatpost.com/": {
+            "article_tag": "h2",
+            "article_class": "entry-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.wired.com/category/security/": {
+            "article_tag": "h2",
+            "article_class": "archive-item-component__title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.zdnet.com/topic/security/": {
+            "article_tag": "h3",
+            "article_class": "title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://securityboulevard.com/": {
+            "article_tag": "h2",
+            "article_class": "entry-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://arstechnica.com/security/": {
+            "article_tag": "h2",
+            "article_class": "article-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.infosecurity-magazine.com/": {
+            "article_tag": "h2",
+            "article_class": "article__title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.reddit.com/r/cybersecurity/": {
+            "article_tag": "h3",
+            "article_class": "_eYtD2XCVieq6emjKBH3m",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://isc.sans.edu/": {
+            "article_tag": "h2",
+            "article_class": "diary-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://nakedsecurity.sophos.com/": {
+            "article_tag": "h2",
+            "article_class": "entry-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://portswigger.net/daily-swig": {
+            "article_tag": "h2",
+            "article_class": "article__title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://www.welivesecurity.com/": {
+            "article_tag": "h2",
+            "article_class": "entry-title",
+            "title_tag": "a",
+            "title_class": ""
+        },
+        "https://blog.malwarebytes.com/": {
+            "article_tag": "h2",
+            "article_class": "entry-title",
+            "title_tag": "a",
+            "title_class": ""
+        }
+    }
+}
