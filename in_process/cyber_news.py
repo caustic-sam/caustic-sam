@@ -1,3 +1,6 @@
+##11.21.2024 scrirpt fails for not having requet.  delelete all relatedn repos create new model:
+    
+
 # pylint: disable=W1514
 # pylint: disable=C0114
 # pylint: disable=C0116

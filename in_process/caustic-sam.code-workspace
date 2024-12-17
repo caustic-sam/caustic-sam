@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "caustic-sam",
+			"path": "."
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "CodeGPT Plus Beta"
+	}
+}
