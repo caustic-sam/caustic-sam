@@ -9,7 +9,7 @@ from openpyxl import Workbook, load_workbook
 import random
 
 # Configuration
-LIMIT_DOWNLOADS = False  # Set True for only 5 random downloads, False for all
+LIMIT_DOWNLOADS = True  # Set True for only 5 random downloads, False for all
 BASE_URL = "https://csrc.nist.gov"
 SP_PAGE_URL = BASE_URL + "/publications/sp"
 DOWNLOAD_DIR = os.path.expanduser("~/Documents/nist_downloads_http2")
