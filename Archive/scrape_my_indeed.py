@@ -34,7 +34,7 @@ job_list = []
 jobs = driver.find_elements(By.CSS_SELECTOR, "div.job_card_class")  # Adjust the selector as needed
 
 for job in jobs:
-    title = job.find_element(By.CSS_SELECTOR, "h2").text
+    title = job.find_element(By.CSS_SELECTOR, "h1").text
     company = job.find_element(By.CSS_SELECTOR, ".company_name_class").text
     location = job.find_element(By.CSS_SELECTOR, ".location_class").text
     job_list.append({"title": title, "company": company, "location": location})
